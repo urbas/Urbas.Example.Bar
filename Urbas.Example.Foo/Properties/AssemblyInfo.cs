@@ -5,9 +5,9 @@ using System.Runtime.CompilerServices;
 // Change them to the values specific to your project.
 
 [assembly: AssemblyTitle ("Urbas.Example.Foo")]
-[assembly: AssemblyDescription ("")]
+[assembly: AssemblyDescription ("An example NuGet package with a DLL without dependencies.")]
 [assembly: AssemblyConfiguration ("")]
-[assembly: AssemblyCompany ("")]
+[assembly: AssemblyCompany ("Matej Urbas")]
 [assembly: AssemblyProduct ("")]
 [assembly: AssemblyCopyright ("Matej Urbas")]
 [assembly: AssemblyTrademark ("")]

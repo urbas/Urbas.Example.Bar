@@ -1,0 +1,17 @@
+#!/bin/bash
+
+rm -Rf .nuget
+mkdir .nuget
+
+pushd .nuget
+
+mkdir -p lib/net40
+mkdir content
+mkdir tools
+
+cp ../bin/Debug/*.dll lib/net40
+cp ../Urbas.Example.Foo.nuspec .
+
+nuget pack Urbas.Example.Foo.nuspec
+
+popd
