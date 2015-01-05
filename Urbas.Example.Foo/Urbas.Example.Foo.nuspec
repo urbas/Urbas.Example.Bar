@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Urbas.Example.Foo</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>Matej Urbas</authors>
     <owners>Matej Urbas</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
