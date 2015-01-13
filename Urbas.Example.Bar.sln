@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Urbas.Example.Foo", "Urbas.Example.Foo\Urbas.Example.Foo.csproj", "{B5F53A55-2FCF-4959-84B1-87EADE01D414}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Urbas.Example.Bar", "Urbas.Example.Bar\Urbas.Example.Bar.csproj", "{B5F53A55-2FCF-4959-84B1-87EADE01D414}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +15,6 @@ Global
 		{B5F53A55-2FCF-4959-84B1-87EADE01D414}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Urbas.Example.Foo\Urbas.Example.Foo.csproj
+		StartupItem = Urbas.Example.Bar\Urbas.Example.Bar.csproj
 	EndGlobalSection
 EndGlobal

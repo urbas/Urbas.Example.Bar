@@ -4,8 +4,8 @@ using System.Runtime.CompilerServices;
 // Information about this assembly is defined by the following attributes.
 // Change them to the values specific to your project.
 
-[assembly: AssemblyTitle ("Urbas.Example.Foo")]
-[assembly: AssemblyDescription ("An example NuGet package with a DLL without dependencies.")]
+[assembly: AssemblyTitle ("Urbas.Example.Bar")]
+[assembly: AssemblyDescription ("An example NuGet package with a DLL and some dependencies.")]
 [assembly: AssemblyConfiguration ("")]
 [assembly: AssemblyCompany ("Matej Urbas")]
 [assembly: AssemblyProduct ("")]
