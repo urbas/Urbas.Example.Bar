@@ -3,3 +3,4 @@ obj/
 *~
 .nuget/
 *.suo
+packages/

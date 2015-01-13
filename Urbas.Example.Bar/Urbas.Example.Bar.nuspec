@@ -11,6 +11,7 @@
     <copyright>Copyright 2015</copyright>
     <tags>Example</tags>
     <dependencies>
+      <dependency id="Urbas.Example.Foo" version="1.0.1" />
     </dependencies>
     <frameworkAssemblies>
       <frameworkAssembly assemblyName="System" targetFramework="net45" />
