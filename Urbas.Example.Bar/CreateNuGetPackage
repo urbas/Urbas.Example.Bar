@@ -9,7 +9,7 @@ mkdir -p lib/net45
 mkdir content
 mkdir tools
 
-cp ../bin/Debug/*.dll lib/net45
+cp ../obj/Debug/*.dll lib/net45
 cp ../Urbas.Example.Bar.nuspec .
 
 nuget pack Urbas.Example.Bar.nuspec
